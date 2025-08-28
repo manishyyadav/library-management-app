@@ -1,1 +1,3 @@
-# library-management-app
+# Library Management App
+
+Generated starter repo.
